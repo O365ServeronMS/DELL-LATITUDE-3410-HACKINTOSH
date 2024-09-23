@@ -44,11 +44,6 @@ Run macOS on your Dell Latitude 3410
 - [Installation](#installation)
   - [First-time installation](#first-time-installation)
 - [Improvements](#improvements)
-- [FAQ](#faq)
-- [Changelog](#changelog)
-- [A reward](#a-reward)
-- [Credits](#credits)
-- [Support and discussion](#support-and-discussion)
 
 ## Configuration
 
